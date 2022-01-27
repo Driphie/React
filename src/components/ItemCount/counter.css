@@ -1,0 +1,17 @@
+.conteiner{
+    display: flex;
+    align-items: center;
+}
+.boton{
+    background-color: cadetblue;
+    color: black;
+    font-size: medium;
+}
+.stock{
+    color: black;
+    border-top: solid slateblue;
+    border-left: solid slateblue;
+    border-bottom: solid slateblue;
+    border-right: solid slateblue;
+    font-size: large;
+}

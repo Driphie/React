@@ -1,0 +1,45 @@
+.imag{
+    width: 50px;
+    height: 50px;
+}
+.columna{
+    background-color: rgba(62, 62, 63, 0.938);
+}
+.quantity{
+    display: inline-block;
+    font-size: 15px;
+    color: black;
+    padding:12px;
+    background-color: rgb(146, 190, 156);
+}
+.cruz{
+    background-color: white;
+    display: flex;
+    width: auto;
+}
+.divs{
+    font-size: 15px;
+    color: whitesmoke;
+    margin-bottom: 2px;
+}
+.deleteProduct{
+    font-weight: 500;
+    background-color: rgb(204, 106, 106);
+    color: black;
+}
+.price{
+    font-style: italic;
+    font-weight: bold;
+}
+.delete{
+    display: inline-flex;
+    background-color: rgb(204, 106, 106);
+}
+.comprar{
+    background-color: yellowgreen;
+    text-decoration: none;
+    cursor: pointer;
+}
+.vaciar{
+    background-color: thistle;
+}

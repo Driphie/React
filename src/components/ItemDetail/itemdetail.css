@@ -1,0 +1,23 @@
+.title{
+    color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: cadetblue;
+    text-align: center;
+    font-size: x-large;
+}
+.image{
+    width: 400px;
+    height: 400px;
+}
+.description{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    background-color: cadetblue;
+    font-size: medium;
+    display: inline-block;
+}
+.price{
+   color: black;
+   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-size: large;
+}

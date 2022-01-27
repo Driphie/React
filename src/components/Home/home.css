@@ -1,0 +1,16 @@
+.img{
+    width:auto;
+    align-items: center;
+    display: inline-block;
+    margin-left: 220px;
+    margin-right: 220px;
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color:rgb(233, 217, 126);
+    border-top: dashed rgb(0, 0, 0);
+    border-left: dashed rgb(0, 0, 0);
+    border-right: dashed rgb(0, 0, 0);
+    border-bottom: dashed rgb(0, 0, 0);
+}

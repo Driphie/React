@@ -1,0 +1,20 @@
+.title{
+    color: black;
+    background-color: lightpink;
+}
+.dat{
+    background-color: lightpink;
+}
+.boton{
+    background-color: lightpink;
+    border-bottom: solid magenta;
+    border-top: solid magenta;
+    border-left: solid magenta;
+    border-right: solid magenta;
+    text-decoration: none;
+    cursor: pointer;
+}
+.container{
+    background-color: rgb(177, 150, 230);
+    align-items: center;
+}

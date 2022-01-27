@@ -1,0 +1,42 @@
+.conteinerButton{
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+}
+.botones{
+    font-size: 15px;
+    width: 30px;
+    height: 30px;
+}
+.boton{
+    width: 120px;
+    height: 30px;
+    border-bottom: solid 2px palevioletred;
+    border-top: solid 2px palevioletred;
+    border-left: solid 2px palevioletred;
+    border-right: solid 2px palevioletred;
+    background-color: cadetblue;
+    color: black;
+}
+.parr1{
+    display: flex;
+    font-size: 20px;
+}
+.ItemsListConteiner {
+color: black;
+background-color: rgb(177, 133, 197);
+}
+.Title{
+    color: black;
+    font-size: medium;
+    background-color: cadetblue;
+}
+.itemPicture {
+    width: 350px;
+    height: 350px;
+}
+.btnVer{
+    color: black;
+    font-size: medium;
+    background-color: cornflowerblue;
+}
