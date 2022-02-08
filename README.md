@@ -13,4 +13,4 @@ para correr el proyecto, que estara disponible en https://localhost:3000
 
 Autor: Gonzalo Allievi
 
-<p><img align="cemter" src="https://github.com/Driphie/REACT1/blob/main/bloggif_6202cd5a7ce69.gif" /></p>
+<p><img align="cemter" src="https://github.com/Driphie/REACT1/blob/main/Desktop-2022.02.08-17.04.01.01_Trim.gif" /></p>
